@@ -6,6 +6,7 @@
 - You will implement Logistic Regression, Random Forest, XGBoost,and Neural Network algorithms and Unbalanced Data Techniques . Also visualize performances of the models using Seaborn, Matplotlib and Yellowbrick in a variety of ways.
 - At the end of the project, you will have the opportunity to deploy your model by Streamlit API.
 
+>1. [DL_CapstoneP Fraud Detection V3 final.ipynb](./Fraud_Detection_Student_V3_final.ipynb)
 
 <div align='center'>
     
@@ -17,7 +18,8 @@
 <img src='https://i.ibb.co/VWxtDzV/download.png' alt='' width=80%, height=250>  
     
 >### Random Forest 
-<img src='https://i.ibb.co/HqDpChg/download.png' alt='' width=90%, height=650>  
+<img src='https://i.ibb.co/HqDpChg/download.png' alt='' width=90%, height=650> 
+<img src='https://i.ibb.co/XJnqrQ2/download.png' alt='' width=90%, height=650>  
 
 <h3>Feature Importance Computed in 3 Ways with Python</h3>
 <br> 
