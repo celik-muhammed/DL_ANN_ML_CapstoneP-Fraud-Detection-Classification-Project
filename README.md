@@ -50,4 +50,7 @@
 <img src='https://i.ibb.co/X33V4PY/download.png' alt='' width=95%, height=800>
 
 <br>  
+
+>## Streamlit
+<img src='https://i.ibb.co/LSzKs4V/download.png' alt='' width=95%, height=800>
 </div>
