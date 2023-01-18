@@ -52,5 +52,5 @@
 <br>  
 
 >## Streamlit
-<img src='https://i.ibb.co/CW17g02/download.png' alt='' width=95%, height=800>
+<img src='https://i.ibb.co/zhtHW93/download.png' alt='' width=95%, height=800>
 </div>
