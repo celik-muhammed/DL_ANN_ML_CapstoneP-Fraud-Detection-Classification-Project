@@ -11,29 +11,41 @@
     
 ## Visually Compare Models Performance In a Graph    
 <h3>Scores</h3>
-<img src='https://i.ibb.co/265KJTp/download.png' alt='' width=90%, height=300> 
-<img src='https://i.ibb.co/HTSNzdr/download.png' alt='' width=90%, height=300>  
-<img src='https://i.ibb.co/0tz0RKB/download.png' alt='' width=90%, height=300>  
-<img src='https://i.ibb.co/VWxtDzV/download.png' alt='' width=90%, height=300>  
+<img src='https://i.ibb.co/265KJTp/download.png' alt='' width=90%, height=250> 
+<img src='https://i.ibb.co/HTSNzdr/download.png' alt='' width=90%, height=250>  
+<img src='https://i.ibb.co/0tz0RKB/download.png' alt='' width=90%, height=250>  
+<img src='https://i.ibb.co/VWxtDzV/download.png' alt='' width=90%, height=250>  
+    
+>### Random Forest 
+<img src='https://i.ibb.co/HqDpChg/download.png' alt='' width=90%, height=250>  
 
 <h3>Feature Importance Computed in 3 Ways with Python</h3>
 <br> 
 
->#### Random Forest 
-<img src='https://i.ibb.co/S0kJ717/download.png' alt='' width=75%, height=400>
->#### Permutation Based Feature Importance 
-<img src='https://i.ibb.co/5sBrCQg/download.png' alt='' width=75%, height=400>
->#### Importance computed with SHAP values
-<img src='https://i.ibb.co/TgsvBwZ/download.png' alt='' width=75%, height=400>
+>### Random Forest 
+<img src='https://i.ibb.co/S0kJ717/download.png' alt='' width=85%, height=400>
+    
+>### Permutation Based Feature Importance 
+<img src='https://i.ibb.co/5sBrCQg/download.png' alt='' width=85%, height=400>
+    
+>### Importance computed with SHAP values
+<img src='https://i.ibb.co/TgsvBwZ/download.png' alt='' width=85%, height=400>
+<img src='https://i.ibb.co/YfsNnK3/download.png' alt='' width=85%, height=400>
 
 <br> 
 
->#### Data Review
-<img src='https://i.ibb.co/thWD3Hg/download.png' alt='' width=75%, height=500>
-<img src='https://i.ibb.co/5krFjm6/download.png' alt='' width=75%, height=500>
-<img src='https://i.ibb.co/HnGy4VS/download.png' alt='' width=75%, height=500>
-<img src='https://i.ibb.co/jyJMt7n/download.png' alt='' width=75%, height=500>
-<img src='https://i.ibb.co/X33V4PY/download.png' alt='' width=75%, height=500>
+>## Data Review
+<img src='https://i.ibb.co/thWD3Hg/download.png' alt='' width=75%, height=250>
+<img src='https://i.ibb.co/5krFjm6/download.png' alt='' width=75%, height=400>
+    
+>### (Visual Method) Create a histogram.
+<img src='https://i.ibb.co/HnGy4VS/download.png' alt='' width=95%, height=800>
+    
+>### (Visual Method) Create a boxplot.
+<img src='https://i.ibb.co/jyJMt7n/download.png' alt='' width=95%, height=800>
+    
+>###  (Visual Method) Create a Q-Q plot.
+<img src='https://i.ibb.co/X33V4PY/download.png' alt='' width=95%, height=800>
 
 <br>  
 </div>
