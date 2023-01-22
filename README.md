@@ -12,27 +12,27 @@
     
 ## Visually Compare Models Performance In a Graph    
 <h3>Scores</h3>
-<img src='https://i.ibb.co/265KJTp/download.png' alt='' width=80%, height=250> 
-<img src='https://i.ibb.co/HTSNzdr/download.png' alt='' width=80%, height=250>  
-<img src='https://i.ibb.co/0tz0RKB/download.png' alt='' width=80%, height=250>  
-<img src='https://i.ibb.co/VWxtDzV/download.png' alt='' width=80%, height=250>  
+<img src='https://i.ibb.co/R9DFrjR/download.png' alt='' width=80%, height=350> 
+<img src='https://i.ibb.co/fNc2nbK/download.png' alt='' width=80%, height=350>  
+<img src='https://i.ibb.co/RvQTsLR/download.png' alt='' width=80%, height=350>  
+<img src='https://i.ibb.co/8KJfdD3/download.png' alt='' width=80%, height=350>  
     
 >### Random Forest 
-<img src='https://i.ibb.co/HqDpChg/download.png' alt='' width=90%, height=650> 
-<img src='https://i.ibb.co/XJnqrQ2/download.png' alt='' width=80%, height=400>  
+<img src='https://i.ibb.co/ByF8n90/download.png' alt='' width=90%, height=650> 
+<img src='https://i.ibb.co/CPQDCCL/download.png' alt='' width=80%, height=400>  
 
 <h3>Feature Importance Computed in 3 Ways with Python</h3>
 <br> 
 
 >### Random Forest 
-<img src='https://i.ibb.co/S0kJ717/download.png' alt='' width=85%, height=400>
+<img src='https://i.ibb.co/vq5k9rC/download.png' alt='' width=85%, height=400>
     
 >### Permutation Based Feature Importance 
-<img src='https://i.ibb.co/5sBrCQg/download.png' alt='' width=85%, height=400>
+<img src='https://i.ibb.co/4S14Rwp/download.png' alt='' width=85%, height=400>
     
 >### Importance computed with SHAP values
-<img src='https://i.ibb.co/TgsvBwZ/download.png' alt='' width=85%, height=400>
-<img src='https://i.ibb.co/YfsNnK3/download.png' alt='' width=85%, height=400>
+<img src='https://i.ibb.co/5nqyrwc/download.png' alt='' width=85%, height=400>
+<img src='https://i.ibb.co/pL9Jjkc/download.png' alt='' width=85%, height=400>
 
 <br> 
 
