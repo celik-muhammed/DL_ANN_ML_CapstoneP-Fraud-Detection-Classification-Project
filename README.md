@@ -19,6 +19,7 @@
     
 >### Random Forest 
 <img src='https://i.ibb.co/ByF8n90/download.png' alt='' width=90%, height=650> 
+<img src='https://i.ibb.co/PzvQJ2r/download.png' alt='' width=70%, height=450>  
 <img src='https://i.ibb.co/CPQDCCL/download.png' alt='' width=80%, height=400>  
 
 <h3>Feature Importance Computed in 3 Ways with Python</h3>
